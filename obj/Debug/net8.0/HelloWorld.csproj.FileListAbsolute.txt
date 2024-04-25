@@ -1,0 +1,14 @@
+C:\Users\cydne\OneDrive\Desktop\repos\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\Users\cydne\OneDrive\Desktop\repos\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Users\cydne\OneDrive\Desktop\repos\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Users\cydne\OneDrive\Desktop\repos\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\Users\cydne\OneDrive\Desktop\repos\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\Users\cydne\OneDrive\Desktop\repos\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cydne\OneDrive\Desktop\repos\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\cydne\OneDrive\Desktop\repos\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Users\cydne\OneDrive\Desktop\repos\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\cydne\OneDrive\Desktop\repos\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\Users\cydne\OneDrive\Desktop\repos\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\Users\cydne\OneDrive\Desktop\repos\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Users\cydne\OneDrive\Desktop\repos\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Users\cydne\OneDrive\Desktop\repos\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
